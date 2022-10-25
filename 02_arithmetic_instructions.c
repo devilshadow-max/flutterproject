@@ -11,8 +11,8 @@ int main(){
     printf("The value of a / b is: %d\n", a / b);
 
     int z;
-    z = b * a; // legal
-    //b * a = z; // Illegal
+    z = b * a; 
+    //b * a = z; 
     printf("The value of z is: %d\n", z);
 
     printf("5 when divided by 2 leaves a remainder of %d\n", 5%2);
